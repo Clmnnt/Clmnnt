@@ -5,6 +5,6 @@
 
 <h2>Hello ! My name is Clément  </h2>
 I'm from France. <br>
-I am contributor of [Papillon App](https://papillon.bzh).
+I am contributor of Papillon App (https://papillon.bzh).
 
 
