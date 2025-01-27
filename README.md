@@ -4,6 +4,8 @@ Welcome to my GitHub profile! I'm a developer with a keen interest in web develo
 
 ## 🌟 About Me
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/829623164560343040?idleMessage=zzzzz~&theme=&borderRadius=10)](https://discord.com/users/829623164560343040)
+
 - 📫 How to reach me: [Email](mailto:hello@clemeox.fr)
 
 ## 🛠️ Languages and Tools
