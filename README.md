@@ -1,4 +1,4 @@
-# Hello World ! 
-Hi, I’m Clément, a beginner developer and student from France.
+![Clmnnt's GitHub Banner](https://raw.githubusercontent.com/Clmnnt/Clmnnt/main/banner.png)
 ___
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ridpfe4f4arrkstfmvrp7fqwua&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001038.dfeba0480e374baf8d448f4639de60ef.1723)](https://music-profile.rayriffy.com)
+
