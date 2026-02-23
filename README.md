@@ -14,7 +14,7 @@ I'm Clément, a student who develops software in my free time.
 *From June to July 2025* - Host solutions and IT outsourcing services at low price. 
 
 <a href="https://groupe-speed.cloud"> <img src="https://groupe-speed.cloud/logo.svg" alt="Groupe Speed Cloud avatar" width=200 style="vertical-align:middle; border-radius:6px; margin-right:8px"></a> <br>
-*now*- Tools for non-profit organizations, fasts-foods, very small businesses, local authorities and hosting providers, IT enthusiasts, and Roleplay entities. 
+*Now* - Tools for non-profit organizations, fasts-foods, very small businesses, local authorities and hosting providers, IT enthusiasts, and Roleplay entities. 
 
 # Want to contact me? 
 
