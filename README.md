@@ -16,6 +16,9 @@ I'm Clément, a student who develops software in my free time.
 <a href="https://groupe-speed.cloud"> <img src="https://groupe-speed.cloud/logo.svg" alt="Groupe Speed Cloud avatar" width=200 style="vertical-align:middle; border-radius:6px; margin-right:8px"></a> <br>
 *From July 2025 to March 2026* - Tools for non-profit organizations, fasts-foods, very small businesses, local authorities and hosting providers, IT enthusiasts, and Roleplay entities. 
 
+<a href="https://etherlinx.net"> <img src="https://etherlinx.net/images/banwbg.png" alt="Etherlinx banner" width=200 style="vertical-align:middle; border-radius:6px; margin-right:8px"></a><br>
+*Now* - Host solutions and IT outsourcing services at low price. 
+
 # Want to contact me? 
 
 Email me : hello@clmnnt.dev </br>
